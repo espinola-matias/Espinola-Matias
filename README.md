@@ -6,8 +6,8 @@
 
 ## 🚀 Sobre Mí
 
-* [cite_start]💡 **Mentalidad Emprendedora:** Fuerte orientación a resultados, autonomía y liderazgo[cite: 1].
-* [cite_start]💬 Busco activamente proyectos para aplicar mi conocimiento práctico y colaborar en entornos ágiles[cite: 1].
+* 💡 **Mentalidad Emprendedora:** Fuerte orientación a resultados, autonomía y liderazgo[cite: 1].
+* 💬 Busco activamente proyectos para aplicar mi conocimiento práctico y colaborar en entornos ágiles[cite: 1].
 
 ---
 
