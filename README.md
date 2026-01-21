@@ -1,17 +1,17 @@
-# ¡Hola! Soy Mati 💻
+# ¡Hola! Soy Mati 
 
 > **Backend Developer**
 
 ---
 
-## 🚀 Sobre Mí
+##  Sobre Mí
 
-* 💡 **Mentalidad Emprendedora:** Fuerte orientación a resultados, autonomía y liderazgo[cite: 1].
-* 💬 Busco activamente proyectos para aplicar mi conocimiento práctico y colaborar en entornos ágiles[cite: 1].
+*  **Mentalidad Emprendedora:** Fuerte orientación a resultados, autonomía y liderazgo[cite: 1].
+*  Busco activamente proyectos para aplicar mi conocimiento práctico y colaborar en entornos ágiles[cite: 1].
 
 ---
 
-## 🛠️ Mi Stack de Herramientas
+##  Mi Stack de Herramientas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
